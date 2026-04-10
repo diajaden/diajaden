@@ -2,7 +2,7 @@
 
 I'm Dia - a Digital Product & BI Analyst based in Canada.
 
-Dual Bachelors - Computer Science (BCS) & Developmental Psychology (BA) | Certified Project Management Professional (PMP) | Artificial Intelligence Governance Professional (AIGP)
+Bachelors - Computer Science (BCS) & Developmental Psychology (BA) | Certified Project Management Professional (PMP) | Artificial Intelligence Governance Professional (AIGP)
 
 My main tech stack is Python, Java, and C#. Project Management tools are Notion, Trello and Asana.
 
